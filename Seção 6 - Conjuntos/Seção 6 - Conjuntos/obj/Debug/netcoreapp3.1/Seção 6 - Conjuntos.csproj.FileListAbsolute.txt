@@ -1,0 +1,12 @@
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Conjuntos\Seção 6 - Conjuntos\bin\Debug\netcoreapp3.1\Seção 6 - Conjuntos.exe
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Conjuntos\Seção 6 - Conjuntos\bin\Debug\netcoreapp3.1\Seção 6 - Conjuntos.deps.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Conjuntos\Seção 6 - Conjuntos\bin\Debug\netcoreapp3.1\Seção 6 - Conjuntos.runtimeconfig.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Conjuntos\Seção 6 - Conjuntos\bin\Debug\netcoreapp3.1\Seção 6 - Conjuntos.runtimeconfig.dev.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Conjuntos\Seção 6 - Conjuntos\bin\Debug\netcoreapp3.1\Seção 6 - Conjuntos.dll
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Conjuntos\Seção 6 - Conjuntos\bin\Debug\netcoreapp3.1\Seção 6 - Conjuntos.pdb
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Conjuntos\Seção 6 - Conjuntos\obj\Debug\netcoreapp3.1\Seção 6 - Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Conjuntos\Seção 6 - Conjuntos\obj\Debug\netcoreapp3.1\Seção 6 - Conjuntos.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Conjuntos\Seção 6 - Conjuntos\obj\Debug\netcoreapp3.1\Seção 6 - Conjuntos.AssemblyInfo.cs
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Conjuntos\Seção 6 - Conjuntos\obj\Debug\netcoreapp3.1\Seção 6 - Conjuntos.dll
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Conjuntos\Seção 6 - Conjuntos\obj\Debug\netcoreapp3.1\Seção 6 - Conjuntos.pdb
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Conjuntos\Seção 6 - Conjuntos\obj\Debug\netcoreapp3.1\Seção 6 - Conjuntos.genruntimeconfig.cache

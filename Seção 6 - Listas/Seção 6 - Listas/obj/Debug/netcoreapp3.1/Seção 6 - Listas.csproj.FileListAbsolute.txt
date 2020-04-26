@@ -1,0 +1,13 @@
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Listas\Seção 6 - Listas\bin\Debug\netcoreapp3.1\Seção 6 - Listas.exe
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Listas\Seção 6 - Listas\bin\Debug\netcoreapp3.1\Seção 6 - Listas.deps.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Listas\Seção 6 - Listas\bin\Debug\netcoreapp3.1\Seção 6 - Listas.runtimeconfig.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Listas\Seção 6 - Listas\bin\Debug\netcoreapp3.1\Seção 6 - Listas.runtimeconfig.dev.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Listas\Seção 6 - Listas\bin\Debug\netcoreapp3.1\Seção 6 - Listas.dll
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Listas\Seção 6 - Listas\bin\Debug\netcoreapp3.1\Seção 6 - Listas.pdb
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Listas\Seção 6 - Listas\obj\Debug\netcoreapp3.1\Seção 6 - Listas.csprojAssemblyReference.cache
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Listas\Seção 6 - Listas\obj\Debug\netcoreapp3.1\Seção 6 - Listas.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Listas\Seção 6 - Listas\obj\Debug\netcoreapp3.1\Seção 6 - Listas.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Listas\Seção 6 - Listas\obj\Debug\netcoreapp3.1\Seção 6 - Listas.AssemblyInfo.cs
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Listas\Seção 6 - Listas\obj\Debug\netcoreapp3.1\Seção 6 - Listas.dll
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Listas\Seção 6 - Listas\obj\Debug\netcoreapp3.1\Seção 6 - Listas.pdb
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Listas\Seção 6 - Listas\obj\Debug\netcoreapp3.1\Seção 6 - Listas.genruntimeconfig.cache

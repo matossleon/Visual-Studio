@@ -1,0 +1,13 @@
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Matrizes\Seção 6 - Matrizes\bin\Debug\netcoreapp3.1\Seção 6 - Matrizes.exe
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Matrizes\Seção 6 - Matrizes\bin\Debug\netcoreapp3.1\Seção 6 - Matrizes.deps.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Matrizes\Seção 6 - Matrizes\bin\Debug\netcoreapp3.1\Seção 6 - Matrizes.runtimeconfig.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Matrizes\Seção 6 - Matrizes\bin\Debug\netcoreapp3.1\Seção 6 - Matrizes.runtimeconfig.dev.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Matrizes\Seção 6 - Matrizes\bin\Debug\netcoreapp3.1\Seção 6 - Matrizes.dll
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Matrizes\Seção 6 - Matrizes\bin\Debug\netcoreapp3.1\Seção 6 - Matrizes.pdb
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Matrizes\Seção 6 - Matrizes\obj\Debug\netcoreapp3.1\Seção 6 - Matrizes.csprojAssemblyReference.cache
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Matrizes\Seção 6 - Matrizes\obj\Debug\netcoreapp3.1\Seção 6 - Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Matrizes\Seção 6 - Matrizes\obj\Debug\netcoreapp3.1\Seção 6 - Matrizes.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Matrizes\Seção 6 - Matrizes\obj\Debug\netcoreapp3.1\Seção 6 - Matrizes.AssemblyInfo.cs
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Matrizes\Seção 6 - Matrizes\obj\Debug\netcoreapp3.1\Seção 6 - Matrizes.dll
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Matrizes\Seção 6 - Matrizes\obj\Debug\netcoreapp3.1\Seção 6 - Matrizes.pdb
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Matrizes\Seção 6 - Matrizes\obj\Debug\netcoreapp3.1\Seção 6 - Matrizes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\leona\source\repos\Seção 4 (Classes, objetos e atributos)\Seção 4 (Classes, objetos e atributos)\bin\Debug\netcoreapp3.1\Seção 4 (Classes, objetos e atributos).exe
+C:\Users\leona\source\repos\Seção 4 (Classes, objetos e atributos)\Seção 4 (Classes, objetos e atributos)\bin\Debug\netcoreapp3.1\Seção 4 (Classes, objetos e atributos).deps.json
+C:\Users\leona\source\repos\Seção 4 (Classes, objetos e atributos)\Seção 4 (Classes, objetos e atributos)\bin\Debug\netcoreapp3.1\Seção 4 (Classes, objetos e atributos).runtimeconfig.json
+C:\Users\leona\source\repos\Seção 4 (Classes, objetos e atributos)\Seção 4 (Classes, objetos e atributos)\bin\Debug\netcoreapp3.1\Seção 4 (Classes, objetos e atributos).runtimeconfig.dev.json
+C:\Users\leona\source\repos\Seção 4 (Classes, objetos e atributos)\Seção 4 (Classes, objetos e atributos)\bin\Debug\netcoreapp3.1\Seção 4 (Classes, objetos e atributos).dll
+C:\Users\leona\source\repos\Seção 4 (Classes, objetos e atributos)\Seção 4 (Classes, objetos e atributos)\bin\Debug\netcoreapp3.1\Seção 4 (Classes, objetos e atributos).pdb
+C:\Users\leona\source\repos\Seção 4 (Classes, objetos e atributos)\Seção 4 (Classes, objetos e atributos)\obj\Debug\netcoreapp3.1\Seção 4 (Classes, objetos e atributos).csprojAssemblyReference.cache
+C:\Users\leona\source\repos\Seção 4 (Classes, objetos e atributos)\Seção 4 (Classes, objetos e atributos)\obj\Debug\netcoreapp3.1\Seção 4 (Classes, objetos e atributos).csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Seção 4 (Classes, objetos e atributos)\Seção 4 (Classes, objetos e atributos)\obj\Debug\netcoreapp3.1\Seção 4 (Classes, objetos e atributos).AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\Seção 4 (Classes, objetos e atributos)\Seção 4 (Classes, objetos e atributos)\obj\Debug\netcoreapp3.1\Seção 4 (Classes, objetos e atributos).AssemblyInfo.cs
+C:\Users\leona\source\repos\Seção 4 (Classes, objetos e atributos)\Seção 4 (Classes, objetos e atributos)\obj\Debug\netcoreapp3.1\Seção 4 (Classes, objetos e atributos).dll
+C:\Users\leona\source\repos\Seção 4 (Classes, objetos e atributos)\Seção 4 (Classes, objetos e atributos)\obj\Debug\netcoreapp3.1\Seção 4 (Classes, objetos e atributos).pdb
+C:\Users\leona\source\repos\Seção 4 (Classes, objetos e atributos)\Seção 4 (Classes, objetos e atributos)\obj\Debug\netcoreapp3.1\Seção 4 (Classes, objetos e atributos).genruntimeconfig.cache

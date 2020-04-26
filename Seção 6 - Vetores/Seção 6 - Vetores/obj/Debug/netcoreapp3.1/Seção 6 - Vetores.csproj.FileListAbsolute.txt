@@ -1,0 +1,13 @@
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Vetores\Seção 6 - Vetores\obj\Debug\netcoreapp3.1\Seção 6 - Vetores.csprojAssemblyReference.cache
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Vetores\Seção 6 - Vetores\obj\Debug\netcoreapp3.1\Seção 6 - Vetores.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Vetores\Seção 6 - Vetores\obj\Debug\netcoreapp3.1\Seção 6 - Vetores.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Vetores\Seção 6 - Vetores\obj\Debug\netcoreapp3.1\Seção 6 - Vetores.AssemblyInfo.cs
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Vetores\Seção 6 - Vetores\bin\Debug\netcoreapp3.1\Seção 6 - Vetores.exe
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Vetores\Seção 6 - Vetores\bin\Debug\netcoreapp3.1\Seção 6 - Vetores.deps.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Vetores\Seção 6 - Vetores\bin\Debug\netcoreapp3.1\Seção 6 - Vetores.runtimeconfig.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Vetores\Seção 6 - Vetores\bin\Debug\netcoreapp3.1\Seção 6 - Vetores.runtimeconfig.dev.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Vetores\Seção 6 - Vetores\bin\Debug\netcoreapp3.1\Seção 6 - Vetores.dll
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Vetores\Seção 6 - Vetores\bin\Debug\netcoreapp3.1\Seção 6 - Vetores.pdb
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Vetores\Seção 6 - Vetores\obj\Debug\netcoreapp3.1\Seção 6 - Vetores.dll
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Vetores\Seção 6 - Vetores\obj\Debug\netcoreapp3.1\Seção 6 - Vetores.pdb
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 6 - Vetores\Seção 6 - Vetores\obj\Debug\netcoreapp3.1\Seção 6 - Vetores.genruntimeconfig.cache

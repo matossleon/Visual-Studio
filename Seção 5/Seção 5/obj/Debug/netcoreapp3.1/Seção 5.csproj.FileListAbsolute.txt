@@ -1,0 +1,13 @@
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 5\Seção 5\bin\Debug\netcoreapp3.1\Seção 5.exe
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 5\Seção 5\bin\Debug\netcoreapp3.1\Seção 5.deps.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 5\Seção 5\bin\Debug\netcoreapp3.1\Seção 5.runtimeconfig.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 5\Seção 5\bin\Debug\netcoreapp3.1\Seção 5.runtimeconfig.dev.json
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 5\Seção 5\bin\Debug\netcoreapp3.1\Seção 5.dll
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 5\Seção 5\bin\Debug\netcoreapp3.1\Seção 5.pdb
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 5\Seção 5\obj\Debug\netcoreapp3.1\Seção 5.csprojAssemblyReference.cache
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 5\Seção 5\obj\Debug\netcoreapp3.1\Seção 5.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 5\Seção 5\obj\Debug\netcoreapp3.1\Seção 5.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 5\Seção 5\obj\Debug\netcoreapp3.1\Seção 5.AssemblyInfo.cs
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 5\Seção 5\obj\Debug\netcoreapp3.1\Seção 5.dll
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 5\Seção 5\obj\Debug\netcoreapp3.1\Seção 5.pdb
+C:\Users\leona\OneDrive - ufu.br\WorkSpace - Visual Studio 2019\Seção 5\Seção 5\obj\Debug\netcoreapp3.1\Seção 5.genruntimeconfig.cache
