@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Order.Entities.Enuns;
+using Course.Entities.Enuns;
 using System.Text;
 
-namespace Order.Entities
+namespace Course.Entities
 {
     class Order
     {
@@ -11,6 +11,17 @@ namespace Order.Entities
         public OrderStatus Status { get; set; }
         public List<OrderItem> Items { get; set; } = new List<OrderItem>();
         public Client Client { get; set; }
+
+        public Order()
+        {
+        }
+
+        public Order(DateTime moment, OrderStatus status, Client client)
+        {
+            Moment = moment;
+            Status = status;
+            Client = client;
+        }
 
         public void AddItem(OrderItem item)
         {

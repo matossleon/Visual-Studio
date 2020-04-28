@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Order.Entities.Enuns
+﻿namespace Course.Entities.Enuns
 {
-    class OrderStatus
+    enum OrderStatus : int
     {
+        PendingPayment = 0,
+        Processing = 1,
+        Shipped = 2,
+        Delivered = 3
     }
 }
