@@ -20,8 +20,7 @@ namespace Course.Entities
         }
         public override string ToString()
         {
-            return "Client: "
-                + Name
+            return Name
                 + " ("
                 + BirthDate.ToString("dd/MM/yyyy")
                 + ") - "
